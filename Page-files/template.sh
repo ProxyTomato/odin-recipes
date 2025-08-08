@@ -41,7 +41,7 @@ cat << EOF > "$file_name".html
 			<li>Combine the cooled and drained macaroni, egg, bell pepper, celery, and onion in a bowl, Pour the dressing over top, then stir until everything is well combined and coated in dressing.</li>
 			<li>Serve the macaroni salad immediately or refrigerate until ready to eat.</li>
 		</ol></p>
-		<a href="www.budgetbytes.com/macroni-salads" target="_blank">Credit</a>
+		<a href="https:www.budgetbytes.com/macroni-salad/" target="_blank">Credit</a>
 	</body>
 </html>
 EOF
